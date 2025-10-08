@@ -2,6 +2,7 @@
 
 Please follow these guidelines when adding new presentations:
 
+
 - Create a **separate folder** for each presentation.  
 - Name each folder using the **event name and year** (e.g., `Inclusive_Science_Workshop_2025`).  
 - Include a `README.md` file inside your presentation folder with:
